@@ -9,17 +9,22 @@ del mio portfolio tecnico.
 
 ## ❤️ Le mie passioni
 
-- ...
-- ...
-- ...
+- scacchi
+- day dreaming
+  
 
 ## 💻 Tecnologia ed esperienze
 
+
 Ho già avuto occasione di utilizzare o conoscere:
 
-- ...
-- ...
-- ...
+- c/c++
+- python
+- java
+- kotlin
+- hackthebox
+- tryhackme
+- creazione AI
 
 ## 🧠 Una cosa che potrei insegnare ai miei compagni
 
