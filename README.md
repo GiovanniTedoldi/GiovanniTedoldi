@@ -32,11 +32,11 @@ Ho già avuto occasione di utilizzare o conoscere:
 
 ## 🔍 Cosa mi piacerebbe imparare
 
-...
+cybersecurity, assembly, creazione di software complessi come anti-malware
 
 ## 🚀 Un progetto che mi piacerebbe realizzare
 
-...
+un anti-malware e altre mie idee
 
 ## 🎯 Guardando al futuro
 
