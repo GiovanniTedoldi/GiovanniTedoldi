@@ -5,7 +5,7 @@ del mio portfolio tecnico.
 
 ## 👤 Qualcosa su di me
 
-...
+
 
 ## ❤️ Le mie passioni
 
@@ -14,7 +14,7 @@ del mio portfolio tecnico.
   
 
 ## 💻 Tecnologia ed esperienze
-
+ linux(ubuntu), windows
 
 Ho già avuto occasione di utilizzare o conoscere:
 
@@ -39,5 +39,4 @@ cybersecurity, assembly, creazione di software complessi come anti-malware
 un anti-malware e altre mie idee
 
 ## 🎯 Guardando al futuro
-
-...
+diventare fondatore di un azienda di cybersecurity
